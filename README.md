@@ -1,6 +1,8 @@
-# xmShop
+# xmShop 					
 
 **基于SSM+Bootstrap+Maven+Redis+Mysql的商城系统**
+
+> 我的博客： [https://www.xmlvhy.com](https://www.xmlvhy.com"https://www.xmlvhy.com")
 
 ##### 一、整体框架介绍
 ###### 1.1、背景
@@ -98,4 +100,6 @@
 - 微信支付，这里使用的是 [小D课堂](https://xdclass.net "小D课堂") 提供的微信开发者账户，此账户提供了微信扫码支付统一下单接口，没有商户号也可以完成支付功能开发。（需要的话可以自行到官网注册一个账号即可）
 - 最后，支付过程中，支付宝沙箱支付不会产生任何交易信息的，微信支付会产生实际交易，商品价格最少0.1元！
 
-**项目完整代码**
+**项目涉及完整代码以及数据库脚本，详情见如下：**
+
+[https://www.xmlvhy.com/](https://www.xmlvhy.com/blog/blog/30 "https://www.xmlvhy.com/")
