@@ -2,7 +2,7 @@
 
 **基于SSM+Bootstrap+Maven+Redis+Mysql的商城系统**
 
-> 我的博客： [https://www.xmlvhy.com](https://www.xmlvhy.com"https://www.xmlvhy.com")
+> 我的博客：[https://www.xmlvhy.com](https://www.xmlvhy.com "https://www.xmlvhy.com")
 
 ##### 一、整体框架介绍
 ###### 1.1、背景
