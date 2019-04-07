@@ -1,0 +1,12 @@
+com\xmlvhy\shop\params\ProductParam.class
+com\xmlvhy\shop\params\SystemUserParam.class
+com\xmlvhy\shop\dao\RoleDao.class
+com\xmlvhy\shop\dao\ProductTypeDao.class
+com\xmlvhy\shop\dao\CustomerDao.class
+com\xmlvhy\shop\dao\ProductDao.class
+com\xmlvhy\shop\params\CustomerParam.class
+com\xmlvhy\shop\dao\ShippingDao.class
+com\xmlvhy\shop\dao\CartDao.class
+com\xmlvhy\shop\dao\OrderDao.class
+com\xmlvhy\shop\dao\SystemUserDao.class
+com\xmlvhy\shop\dao\OrderItemDao.class

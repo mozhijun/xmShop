@@ -1,0 +1,9 @@
+com\xmlvhy\shop\pojo\Customer.class
+com\xmlvhy\shop\pojo\Shipping.class
+com\xmlvhy\shop\pojo\SystemUser.class
+com\xmlvhy\shop\pojo\Order.class
+com\xmlvhy\shop\pojo\Cart.class
+com\xmlvhy\shop\pojo\OrderItem.class
+com\xmlvhy\shop\pojo\ProductType.class
+com\xmlvhy\shop\pojo\Product.class
+com\xmlvhy\shop\pojo\Role.class
