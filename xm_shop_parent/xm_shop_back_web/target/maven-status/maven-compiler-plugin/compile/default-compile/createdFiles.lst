@@ -1,8 +1,0 @@
-com\xmlvhy\shop\controller\CustomerController.class
-com\xmlvhy\shop\controller\VerifyCodeController.class
-com\xmlvhy\shop\exception\XmshopExceptionHandler.class
-com\xmlvhy\shop\interceptor\BackSessionInteceptor.class
-com\xmlvhy\shop\controller\SystemUserController.class
-com\xmlvhy\shop\controller\ProductTypeManagerController.class
-com\xmlvhy\shop\vo\ProductVo.class
-com\xmlvhy\shop\controller\ProductController.class
